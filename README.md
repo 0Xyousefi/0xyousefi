@@ -1,7 +1,7 @@
 ## Hi there   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 
 ### About Me:
-I am a Montreal based Data Analyst orignally from Iran. Always curious to learn new technologies. A bit enthusiast for data and Python💜. Love to read reasearch in my free time. 
+I am a Montreal-based Data Analyst originally from Iran. Always curious to learn new technologies. A bit enthusiast for data and Python💜. Love to read research in my free time.
 
 ## Love working with
 
