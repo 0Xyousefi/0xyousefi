@@ -15,6 +15,7 @@ I am a Montreal based Data Analyst orignally from Iran. Always curious to learn 
 <a href="https://github.com/0xyousefi">
 <img align="center" src="https://camo.githubusercontent.com/b7e3aece2b2d76ad8bbbbbdae645dbff38272823fb3e43b150ab297addd01a66/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5468654475646554686174436f64652673686f775f69636f6e733d74727565267468656d653d6461726b266c696e655f6865696768743d3237" alt="Shubhamdeep's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=0xyousefi&amp;show_icons=true&amp;theme=dark&amp;line_height=27" style="max-width: 100%;">
 </a>
+<br>
 ### Connect with me here:  
 
 
