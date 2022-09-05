@@ -18,7 +18,7 @@ I am a Montreal based Data Analyst orignally from Iran. Always curious to learn 
     <img align="left" alt="Mohammad Yousefi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/yousefipro">
-    <img align="left" alt="Mohammad Yousefi | Kaggle" width="24px" src="https://w7.pngwing.com/pngs/423/280/png-transparent-kaggle-logo-logos-logos-and-brands-icon.png" />
+    K
 </a> 
 <a href="https://twitter.com/0xyousefi">
     <img align="left" alt="Mohammad Yousefi | Twitter" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
