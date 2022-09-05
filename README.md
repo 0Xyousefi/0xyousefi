@@ -17,7 +17,10 @@ I am a Montreal based Data Analyst orignally from Iran. Always curious to learn 
 </a>
 <br>
 <br>
-### Connect with me here:  
+
+
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
 <br>
 <br>
 <a href="https://www.linkedin.com/in/0xyousefi/">
