@@ -17,8 +17,8 @@ I am a Montreal based Data Analyst orignally from Iran. Always curious to learn 
 </a>
 <br>
 ### Connect with me here:  
-
-
+<br>
+<br>
 <a href="https://www.linkedin.com/in/0xyousefi/">
     <img align="left" alt="Mohammad Yousefi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
